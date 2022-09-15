@@ -8,6 +8,10 @@
     font-size: 62.5%;
 }
 
+.container {
+    display: flex;
+}
+
 
 header {
     width: 100vw;
